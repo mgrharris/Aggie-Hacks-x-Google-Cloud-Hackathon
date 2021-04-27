@@ -6,6 +6,7 @@ Our team utilized the Household pulse survey data that is collected by the Unite
 
 The data is available 
 [through this link.](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html)
+
 The Census began collecting this survey data in April 2020, shortly after the COVID pandemic became widespread in the United States. Since then, they have been collecting this data biweekly. However, the Census does not consolidate the data files each time that they conduct this survey. There were 27 different CSV files with data collected at different points during the pandemic that our team had to consolidate. Furthermore, while certain questions in every biweekly survey, other questions were added and removed throughout the collection process. For example, questions regarding the COVID Vaccine were added in December 2020 surveys as the vaccine started to become available to the public in the U.S
 
 Our code is provided in the preprocessing.ipynb file.
