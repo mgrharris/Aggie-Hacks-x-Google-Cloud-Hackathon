@@ -1,6 +1,6 @@
 # Aggie-Hacks-x-Google-Cloud-Hackathon
 
-# Data Preprocessing
+## Data Preprocessing
 
 Our team utilized the Household pulse survey data that is collected by the United States Census Bureau. In this survey, respondents enter in their characteristics, and answer a series of questions regarding their sentiment on the COVID-19 pandemic, and how their lives have been impacted.
 
@@ -10,8 +10,12 @@ The Census began collecting this survey data in April 2020, shortly after the CO
 
 Our code is provided in the preprocessing.ipynb file.
 
+## Exploratory Data Analysis
+
 Next did a deep dive into the data in order to find trends among subsets. In the file EDA.ipynb we documented our code as we analyzed various demographic groupings to see how they relate to opinions about the COVID-19 vaccine.
 
 In order to run the Tableau Dashboard, please connect to the Finaldata3 Parquet file in the data folder.
+
+## Conclusions
 
 Though vaccine sentiment has been improving over time, we note that there are prevailing differences between different subgroups. We list the reasons for these differences, and recommend policy outreach to ensure that vaccine sentiment is improving across all measured groups. COVID-19 response is a global, collaborative effort, and requires that all subgroups are on board.
